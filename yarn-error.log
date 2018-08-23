@@ -7291,7 +7291,7 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 1
+  Exit code: 3221225786
   Command: C:\WINDOWS\system32\cmd.exe
   Arguments: /d /s /c concurrently  "react-scripts start" "json-server --watch db.json --port 3005 --delay 500"
   Directory: C:\Users\bryce\DevMountainWPX5\Week3\Tuesday\Afternoon\React-Afternoon-4
